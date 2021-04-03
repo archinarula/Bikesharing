@@ -18,9 +18,9 @@ This challenge consists of two technical analysis deliverables and a written rep
 ## Results
 
 The results are displayed on Tableau Public
-![Deployed Tableau Public LINK] (https://public.tableau.com/profile/archana.narula#!/vizhome/NYC_bikeride_challengeModule14/Story1?publish=yes)
+![Deployed Tableau Public LINK](https://public.tableau.com/profile/archana.narula#!/vizhome/NYC_bikeride_challengeModule14/Story1?publish=yes)
 
-![Image of story] (https://github.com/archinarula/Bikesharing/blob/main/story%20image.png)
+![Image of story](https://github.com/archinarula/Bikesharing/blob/main/story%20image.png)
 
 Key findings and highlights of this analysis is:
 
