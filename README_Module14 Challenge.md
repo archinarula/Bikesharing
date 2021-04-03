@@ -39,8 +39,8 @@ Key findings and highlights of this analysis is:
 This analysis clearly demonstrates high activity in bikesharing service in a busy city like New york. Most riders are younger population and bike riding appears to be a preferred mode of commute between the male users more than women users. Since most activity in riding data was observed in weekday around work hours so Bike riding is popular among work goers as a mode of commute.
 
 Few additional analysis that can be done to further provide insights to bike sharing business are:
-- Gender based analysis during peak hours and population starting locations can be done to start promotional activities specific to male or female riders during those hours at those pickup points to boost business sales.
-- different months data on bike riding can be analysed to see what are the trends and which months are least usage vs which months are peak usage to build the maintainence service actions
+- Gender based analysis during peak hours and popular starting locations can be done to start promotional activities specific to male or female riders during those hours at those pickup points to plan marketing/discount activities to boost business sales.
+- different months data on bike riding can be analysed to see what are the trends and which months are least usage vs which months are peak usage to build the maintainence service actions for the business owners
 
 
 
