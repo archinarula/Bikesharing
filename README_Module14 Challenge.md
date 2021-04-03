@@ -24,7 +24,7 @@ The results are displayed on Tableau Public
 
 Key findings and highlights of this analysis is:
 
-1. There are over 2.3 million bike riders for Ney York City for month of August 2019
+1. There are over 2.3 million bike riders for New York City for month of August 2019
 2. 81% users are subscribers and 19% are customers. 
 3. 65% of riders are males 
 4. Most activity in bike riding is seen either at 8 AM or between 5-6 PM i.e during work commuting hours
