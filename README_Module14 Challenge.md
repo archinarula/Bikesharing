@@ -1,7 +1,7 @@
 # Written Analysis of the NYC Bikesharing challenge Module 14
 
 ## Overview of Analysis
-This project purpose is to use Tableau as an interactive dashboard to demonstrate an analysis of the New York city Bikesharing data for August 2019. Tableau is used to create visualizations comapring different datapoints and then those visualizations are all tied together inform of Dashboards that is finally presented a storyline to reflect the trends and patterns in the NYC bike data that will help the investors to explore the viability of bike sharing business in new location Des Moines.
+This project purpose is to use Tableau as an interactive dashboard to demonstrate an analysis of the New York city Bikesharing data for August 2019. Tableau is used to create visualizations comparing different data points and then those visualizations are all tied together in form of Dashboards, that is finally presented as a storyline to reflect the trends and patterns in the NYC bike data that will help the investors to explore the viability of bike sharing business in new location Des Moines.
 
 Data Source: 
 ![Citi Bike data- August 2019 zip file](https://s3.amazonaws.com/tripdata/index.html) 
