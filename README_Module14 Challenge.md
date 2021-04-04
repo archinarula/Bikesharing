@@ -11,8 +11,13 @@ Data Source:
 This challenge consists of two technical analysis deliverables and a written report to present results. 
 
 - Deliverable 1: Change Trip Duration to a Datetime Format
+https://github.com/archinarula/Bikesharing/blob/main/NYC_CitiBike_Challenge.ipynb
+
 - Deliverable 2: Create Visualizations for the Trip Analysis
+https://public.tableau.com/profile/archana.narula#!/vizhome/NYC_bikeride_challengeModule14/Story1?publish=yes
+
 - Deliverable 3: Create a Story and Report for the Final Presentation
+https://public.tableau.com/profile/archana.narula#!/vizhome/NYC_bikeride_challengeModule14/Story1?publish=yes
 
 
 ## Results
